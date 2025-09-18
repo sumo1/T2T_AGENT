@@ -64,7 +64,9 @@ bash /Users/sumo/tmpsh/start_alivoice.sh
 1. 在文本框输入要合成的内容（最多500字）
 2. 选择喜欢的音色：
    - 从预设的8种音色中选择
-   - 或在"自定义音色"框中输入音色ID
+   - 或在"自定义音色"框中输入音色ID，阿里云音色列表：https://help.aliyun.com/zh/model-studio/cosyvoice-python-sdk?spm=a2c4g.11186623.help-menu-2400256.d_2_6_0_1.f610215dXJ9q8l#dc692b9b51p27
+   - 输入对应的音色code即可
+   - ![img.png](img.png)
 3. 点击"生成语音"按钮
 4. 等待生成完成后可以试听和下载
 
