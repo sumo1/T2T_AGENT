@@ -31,7 +31,10 @@ AVAILABLE_VOICES = {
     "longshuo": "龙硕（新闻男声）",
     "longshu": "龙舒（温柔女声）",
     "longmiaomiao": "龙喵喵（软萌女童）",
-    "longyuan": "龙媛（知性女声）"
+    "longyuan": "龙媛（知性女声）",
+    "longfei_v2": "龙飞（热血磁性男声）",
+    "libai_v2": "李白（古代诗仙男声）",
+    "longjin_v2": "龙津（优雅温润男声）"
 }
 
 
